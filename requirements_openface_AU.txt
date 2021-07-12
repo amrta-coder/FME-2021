@@ -1,0 +1,6 @@
+openface2.2.0(用gcc,g++-8.4.0编译)
+libopenblas-dev-0.2.20
+cmake-3.19.5
+g++-8.4.0
+opencv4.5.1(包含opencv_contrib4.5.1,cuda10.1编译)
+dlib-19.21
