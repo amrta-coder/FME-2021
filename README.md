@@ -5,7 +5,7 @@
 
 ## Related Paper
 
-The project is the sorcecode for the paper of <<Facial Action Unit-based Deep Learning Framework for Spotting Macro- and Micro-expressions in Long Video Sequences>>, which is submitted to [ACM Mutimedia 2021](https://2021.acmmm.org/) as for [FME Challenge 2021](https://megc2021.github.io/index.html).
+The project is the sorcecode for the paper of Facial Action Unit-based Deep Learning Framework for Spotting Macro- and Micro-expressions in Long Video Sequences, which is submitted to [ACM Mutimedia 2021](https://2021.acmmm.org/) as for [FME Challenge 2021](https://megc2021.github.io/index.html).
 
   
 ## Proposal Framework
