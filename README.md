@@ -12,7 +12,7 @@ The project is the sorcecode for the paper of [&laquo;Facial Action Unit-based D
   
 ## Proposal Framework
   
-
+![1.pdf](https://github.com/KDDI-AI-Center/FME-2021/files/6985727/1.pdf)
     
 ## Citations
 
