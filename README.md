@@ -17,9 +17,24 @@ The project is the sorcecode for the paper of [&laquo;Facial Action Unit-based D
     
 ## Citations
 
-Note that any one using this project should cite the paper.
+Note that any one using this project should cite the following paper：
+
+[Facial Action Unit-Based Deep Learning Framework for Spotting Macro- and Micro-Expressions in Long Video Sequences]
 https://dx.doi.org/10.1145/3474085.3479209
 
+```BibTeX
+@Inbook{10.1145/3474085.3479209,
+  author = {Yang, Bo and Wu, Jianming and Zhou, Zhiguang and Komiya, Megumi and Kishimoto, Koki and Xu, Jianfeng and Nonaka, Keisuke and Horiuchi, Toshiharu and      Komorita, Satoshi and Hattori, Gen and Naito, Sei and Takishima, Yasuhiro},
+  title = {Facial Action Unit-Based Deep Learning Framework for Spotting Macro- and Micro-Expressions in Long Video Sequences},
+  year = {2021},
+  isbn = {9781450386517},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+  pages = {4794–4798},
+  numpages = {5}
+}
+```
   
 ## Contact
   
