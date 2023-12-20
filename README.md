@@ -4,7 +4,7 @@ This work is ranked 3rd place in the FME Challenge of ACM Multimedia 2021.
 
 ## Related Paper
 
-The project is the sorcecode for the paper of [&laquo;Facial Action Unit-based Deep Learning Framework for Spotting Macro- and Micro-expressions in Long Video Sequences&raquo;](https://dx.doi.org/10.1145/3474085.3479209), which is submitted to [ACM Mutimedia 2021](https://2021.acmmm.org/) as for [FME Challenge 2021](https://megc2021.github.io/index.html). You can also find this paper from [Researchgate](https://www.researchgate.net/publication/353890502_Facial_Action_Unit-based_Deep_Learning_Framework_for_Spotting_Macro-and_Micro-expressions_in_Long_Video_Sequences).
+The project is the source code for the paper of [&laquo;Facial Action Unit-based Deep Learning Framework for Spotting Macro- and Micro-expressions in Long Video Sequences&raquo;](https://dx.doi.org/10.1145/3474085.3479209), which is submitted to [ACM Multimedia 2021](https://2021.acmmm.org/) as for [FME Challenge 2021](https://megc2021.github.io/index.html). You can also find this paper from [Researchgate](https://www.researchgate.net/publication/353890502_Facial_Action_Unit-based_Deep_Learning_Framework_for_Spotting_Macro-and_Micro-expressions_in_Long_Video_Sequences).
 
   
 ## Proposal Framework
@@ -17,7 +17,7 @@ The project is the sorcecode for the paper of [&laquo;Facial Action Unit-based D
     
 ## Citations
 
-Note that any one using this project should cite the following paper：
+Note that anyone using this project should cite the following paper：
 
 [Facial Action Unit-Based Deep Learning Framework for Spotting Macro- and Micro-Expressions in Long Video Sequences](https://www.researchgate.net/publication/353890502_Facial_Action_Unit-based_Deep_Learning_Framework_for_Spotting_Macro-and_Micro-expressions_in_Long_Video_Sequences)
 
@@ -34,7 +34,7 @@ Note that any one using this project should cite the following paper：
   numpages = {5}
 }
 ```
-  
+
 ## Contact
   
 Questions and comments can be sent to:
@@ -42,6 +42,23 @@ Questions and comments can be sent to:
 Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 
-  
+## Related publications
+
+The following papers are also related with this work:
+
+[Deep Learning Pipeline for Spotting Macro- and Micro-expressions in Long Video Sequences Based on Action Units and Optical Flow](https://www.sciencedirect.com/science/article/abs/pii/S0167865522003683)
+```BibTeX
+@article{YANG202363,
+  title = {Deep Learning Pipeline for Spotting Macro- and Micro-expressions in Long Video Sequences Based on Action Units and Optical Flow},
+  journal = {Pattern Recognition Letters},
+  volume = {165},
+  pages = {63-74},
+  year = {2023},
+  issn = {0167-8655},
+  author = {Bo Yang and Jianming Wu and Kazushi Ikeda and Gen Hattori and Masaru Sugano and Yusuke Iwasawa and Yutaka Matsuo},
+  keywords = {deep learning, macro-expression, micro-expression, action units, optical flow},
+}
+```
+
 
 
