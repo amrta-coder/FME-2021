@@ -19,7 +19,7 @@ The project is the source code for the paper of [&laquo;Facial Action Unit-based
 
 Note that anyone using this project should cite the following paper：
 
-[Facial Action Unit-Based Deep Learning Framework for Spotting Macro- and Micro-Expressions in Long Video Sequences](https://www.researchgate.net/publication/353890502_Facial_Action_Unit-based_Deep_Learning_Framework_for_Spotting_Macro-and_Micro-expressions_in_Long_Video_Sequences)
+[Facial Action Unit-Based Deep Learning Framework for Spotting Macro- and Micro-Expressions in Long Video Sequences](https://dl.acm.org/doi/abs/10.1145/3474085.3479209)
 
 ```BibTeX
 @Inbook{10.1145/3474085.3479209,
